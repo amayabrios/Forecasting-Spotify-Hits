@@ -10,10 +10,9 @@ The goal of this project is to build an algorithm that can predict within reason
 ## Data Exploration <a class="anchor" id="explore"></a>
 An initial exploration of the [Kaggle](https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019) dataset was conducted. Features were selected based on which were most accessible to measure and predict for the goal of this project. The features selected are defined in the table below and refined/engineered in the code. The descriptions were based on my interpretation, the author of the dataset and the [Spotify API](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features). 
 
-To learn more...
-1. Click on "Spotify_data_exploration.ipynb" to see the code, or download and run it! :) 
-2. Visit my [website](https://abrios.wixsite.com/thehub/my-blog/categories/spotify-analysis) for an in depth discussion of the exploration. 
-
+To learn more,
+  click on "Spotify_data_exploration.ipynb" to see the code, or download and run it! :) 
+  
 | Feature | Description |
 | --- | --- |
 | year released | The number of years difference between the release year and the year the song was on the charts. |
